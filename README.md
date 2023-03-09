@@ -26,3 +26,13 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 18    | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)     | [SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Basic%20Select/Higher%20Than%2075%20Marks.sql)|
 | 19    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Basic%20Select/Employee%20Names.sql) |
 | 20    | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)     | [SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Basic%20Select/Employee%20Salaries.sql)|
+
+## Advanced Select Challenges
+
+| Number        | Challenges    | Solutions |
+| ------------- |:-------------:| -----:|
+| 1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |[SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Advanced%20Select/Type%20of%20Triangle.sql) |
+| 2    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)     |[SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Advanced%20Select/The%20PADS.sql)|
+| 3    | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | [SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Advanced%20Select/Occupations.sql) |
+| 4    | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)     | [SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Advanced%20Select/Binary%20Tree%20Nodes.sql)|
+| 5    | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | [SQL](https://github.com/Mahimajain25/sql-hackerrank-solutions/blob/main/Advanced%20Select/New%20Companies.sql) |
